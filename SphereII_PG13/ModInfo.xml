@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="SphereII_PG13" />
-		<Description value="This modlet tries to make the game a bit more PG, by switching out the stripper model with a nurse." />
+		<Description value="(Alpha 19 ) This modlet tries to make the game a bit more PG, by switching out the stripper model with a nurse." />
 		<Author value="sphereii" />
-		<Version value="1.0.0" />
+		<Version value="19.0.0" />
 	</ModInfo>
 </xml>
